@@ -3,9 +3,10 @@
 * i'm 18 years old.
 * Actually front-end student.
 * learning React Js and Typescript.
-
-  <img alt="Github Stats" align="center"  height="190px" src="https://github-readme-stats.vercel.app/api?username=IsaiasSPinto&show_icons=true&count_private=true&theme=github_dark" />
-  <img alt="Most used languages" align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasSPinto&layout=compact&theme=github_dark" />
+<div>
+    <img alt="Github Stats" align="center"  height="200px" src="https://github-readme-stats.vercel.app/api?username=IsaiasSPinto&show_icons=true&count_private=true&theme=github_dark" />
+   <img alt="Most used languages" align="center"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasSPinto&layout=compact&theme=github_dark" />
+  </div>
 
 
 ## Skills 💻
