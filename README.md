@@ -1,8 +1,8 @@
 ## Hi, I'm Isaias! 😁
 
-* i'm 18 years old.
-* Actually front-end student.
-* learning React Js and Typescript.
+* I'm 19 years old.
+* Computer science 📚.
+* Junior full Stack Developer .Net core.
 <div style="display: flex; justify-content: space-around">
     <img alt="Github Stats" align="center"  height="180px" src="https://github-readme-stats.vercel.app/api?username=IsaiasSPinto&show_icons=true&count_private=true&theme=github_dark" />
    <img alt="Most used languages" align="center"  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasSPinto&layout=compact&theme=github_dark" />
@@ -16,8 +16,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+
 </div>
 
 ### Contact me 👋
