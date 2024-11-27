@@ -1,8 +1,8 @@
 ## Hi, I'm Isaias! 😁
 
-* I'm 19 years old.
-* Computer science 📚.
-* Junior full Stack Developer .Net core.
+* I'm 21 years old.
+* ADS 📚.
+* Full Stack Developer .Net, Angular.
 <div style="display: flex; justify-content: space-around">
     <img alt="Github Stats" align="center"  height="180px" src="https://github-readme-stats.vercel.app/api?username=IsaiasSPinto&show_icons=true&count_private=true&theme=github_dark" />
    <img alt="Most used languages" align="center"  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasSPinto&layout=compact&theme=github_dark" />
